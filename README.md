@@ -1,5 +1,7 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 `ve-meta title="Plant Humanities Lab" description="Explore the cultural histories of plants and their influence on human societies."`
 
 `ve-header title="Plant Humanities Lab" logo=https://raw.githubusercontent.com/plant-humanities/media/main/images/phl-website-png-logo.png background=gh:plant-humanities/media/images/header.jpg subtitle="Explore the cultural histories of plants and their influence on human societies" url=/ .sticky`
